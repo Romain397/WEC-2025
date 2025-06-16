@@ -1,0 +1,84 @@
+{
+  "circuits": [
+    {
+      "nom": "Losail International Circuit",
+      "pays": "Qatar",
+      "longueur_km": 5.38,
+      "images": [
+        "https://cdn-5.motorsport.com/images/amp/63vAeAwY/s1000/losail-international-circuit-1.jpg",
+        "https://gpticketstore.vshcdn.net/uploads/images/9508/qatar-fia-wec-grandstand.jpg"
+      ],
+      "histoire": "Construit en 2004, le circuit de Losail est connu pour ses courses de moto et accueille désormais des courses d'endurance."
+    },
+    {
+      "nom": "Autodromo Enzo e Dino Ferrari (Imola)",
+      "pays": "Italie",
+      "longueur_km": 4.909,
+      "images": [
+        "https://www.statsf1.com/photos/circuits/imola.jpg",
+        "https://gpticketstore.vshcdn.net/uploads/images/9269/imola-wec-map.png"
+      ],
+      "histoire": "Imola est un circuit historique en Italie, connu pour ses virages techniques et son rôle dans le calendrier du WEC."
+    },
+    {
+      "nom": "Circuit de Spa-Francorchamps",
+      "pays": "Belgique",
+      "longueur_km": 7.004,
+      "images": [
+        "https://www.sport-et-tourisme.fr/wp-content/uploads/2022/09/Circuit-de-Spa-Francorchamps-%C2%A9David-Savary.jpg",
+        "https://gpticketstore.vshcdn.net/uploads/images/10299/spa-francorchamps.webp"
+      ],
+      "histoire": "Spa est l'un des circuits les plus anciens et prestigieux du monde, célèbre pour le Raidillon de l'Eau Rouge."
+    },
+    {
+      "nom": "Circuit de la Sarthe (Le Mans)",
+      "pays": "France",
+      "longueur_km": 13.626,
+      "images": [
+        "https://as2.ftcdn.net/jpg/05/14/19/71/1000_F_514197152_QncqeltjBOA8NDp9LJVoaDrluPP6t4ji.jpg",
+        "https://media.printables.com/media/prints/695595/images/5465998_a965e6f2-9bea-4f17-ad03-1d90219b2127_2ea0de47-55c5-4a8d-b244-792a3747ed17/thumbs/cover/1200x630/png/screenshot-2023-12-16-at-20900-pm.png"
+      ],
+      "histoire": "Le Mans est le circuit emblématique des 24 Heures du Mans, la course d'endurance la plus célèbre du monde."
+    },
+    {
+      "nom": "Autódromo José Carlos Pace (Interlagos)",
+      "pays": "Brésil",
+      "longueur_km": 4.309,
+      "images": [
+        "https://www.motorsinside.com/miniature/2024/1000_edito_09XTWWmnePqkaHQEoVNn2AlC5DZAw3SOoWbRVRzme9h8LwE=.webp",
+        "https://www.racingcircuits.info/assets/images/maps/South%20America/Brazil/Interlagos/Interlagos-Chicane-2016.png"
+      ],
+      "histoire": "Situé à São Paulo, ce circuit accueille des courses d'endurance et de Formule 1 depuis plusieurs décennies."
+    },
+    {
+      "nom": "Circuit of the Americas (COTA)",
+      "pays": "États-Unis",
+      "longueur_km": 5.513,
+      "images": [
+        "https://circuitoftheamericas.com/wp-content/uploads/COTA-social-share.jpg",
+        "https://gpticketstore.vshcdn.net/uploads/images/10686/fia-wec-austin-map-of-the-grandstands.jpg"
+      ],
+      "histoire": "COTA est un circuit moderne, construit en 2012, connu pour ses installations et sa piste technique."
+    },
+    {
+      "nom": "Fuji Speedway",
+      "pays": "Japon",
+      "longueur_km": 4.563,
+      "images": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/83/99/ba/caption.jpg?w=900&h=-1&s=1",
+        "https://www.racingcircuits.info/assets/images/maps/Asia/Japan/Fuji/Fuji05.png"
+      ],
+      "histoire": "Fuji est situé au pied du mont Fuji et a accueilli des courses d'endurance depuis les années 1960."
+    },
+    {
+      "nom": "Bahrain International Circuit",
+      "pays": "Bahreïn",
+      "longueur_km": 5.412,
+      "images": [
+        "https://www.datapath.co.uk/wp-content/uploads/Bahrain-F1-circuit.jpg",
+        "https://gpticketstore.vshcdn.net/uploads/images/11672/map-of-grandstands-bahrain-wec.jpg"
+      ],
+      "histoire": "Le circuit de Bahreïn est connu pour ses courses nocturnes et son tracé unique en plein désert."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "marques": [
+    {
+      "nom": "Ferrari",
+      "pays": "Italie",
+      "logo": "https://storage.googleapis.com/ecm-prod/assets/Brand/ferrari_bf0975.png",
+      "histoire": "Fondée en 1947 par Enzo Ferrari, Ferrari est une icône du sport automobile. Elle est la seule écurie présente à chaque saison de Formule 1 depuis 1950 et participe activement à l'endurance avec AF Corse."
+    },
+    {
+      "nom": "Toyota",
+      "pays": "Japon",
+      "logo": "https://storage.googleapis.com/ecm-prod/assets/Brand/toyota_ff029e.png",
+      "histoire": "Toyota est une marque japonaise fondée en 1937. Elle domine l'endurance moderne avec ses prototypes hybrides et a remporté plusieurs fois les 24 Heures du Mans depuis 2018."
+    },
+    {
+      "nom": "Porsche",
+      "pays": "Allemagne",
+      "logo": "https://storage.googleapis.com/ecm-prod/assets/Brand/porsche_67ffdf.png",
+      "histoire": "Porsche, constructeur allemand fondé en 1931, détient le record de victoires aux 24 Heures du Mans. Elle combine performance, ingénierie et tradition dans le sport automobile."
+    },
+    {
+      "nom": "Peugeot",
+      "pays": "France",
+      "logo": "https://storage.googleapis.com/ecm-prod/assets/Brand/peugeot_667ffd.png",
+      "histoire": "Peugeot a une longue histoire dans les courses d’endurance, avec des victoires au Mans dans les années 1990 et 2000. Elle est revenue en Hypercar avec le 9X8."
+    },
+    {
+      "nom": "BMW",
+      "pays": "Allemagne",
+      "logo": "https://storage.googleapis.com/ecm-prod/assets/Brand/bmw_7ffdd7.png",
+      "histoire": "BMW, fondée en 1916, est célèbre pour ses moteurs et voitures de sport. Elle participe au WEC via la catégorie LMGT3 avec la M4 GT3."
+    },
+    {
+      "nom": "McLaren",
+      "pays": "Royaume-Uni",
+      "logo": "https://storage.googleapis.com/ecm-prod/assets/Brand/mclaren_bd5d12.png",
+      "histoire": "McLaren, fondée par Bruce McLaren en 1963, est célèbre en F1 et en endurance avec sa victoire au Mans en 1995. Elle fait son retour via la catégorie LMGT3."
+    },
+    {
+      "nom": "Aston Martin",
+      "pays": "Royaume-Uni",
+      "logo": "https://storage.googleapis.com/ecm-prod/assets/Brand/aston_067ffd.png",
+      "histoire": "Aston Martin est engagée en endurance depuis des décennies, avec un retour emblématique en LMGT3 grâce à la Vantage."
+    },
+    {
+      "nom": "Ford",
+      "pays": "États-Unis",
+      "logo": "https://storage.googleapis.com/ecm-prod/assets/Brand/ford_e3a755.png",
+      "histoire": "Ford est célèbre pour sa rivalité avec Ferrari dans les années 1960. Elle revient en LMGT3 avec la nouvelle Mustang GT3."
+    },
+    {
+      "nom": "Alpine",
+      "pays": "France",
+      "logo": "https://storage.googleapis.com/ecm-prod/assets/Brand/alpine_38067f.png",
+      "histoire": "Alpine, marque sportive de Renault, participe au WEC depuis plusieurs années et revient en Hypercar avec un prototype LMDh."
+    },
+    {
+      "nom": "Corvette",
+      "pays": "États-Unis",
+      "logo": "https://storage.googleapis.com/ecm-prod/assets/Brand/corvette_ffddd1.png",
+      "histoire": "Corvette Racing est l’un des piliers de l’endurance américaine et mondiale. Elle engage la Corvette Z06 GT3.R en LMGT3 pour 2024-2025."
+    },
+    {
+      "nom": "Lexus",
+      "pays": "Japon",
+      "logo": "https://storage.googleapis.com/ecm-prod/assets/Brand/lexus_7ffde5.png",
+      "histoire": "Lexus, filiale de luxe de Toyota, s'engage dans le WEC pour la première fois avec un prototype basé sur la technologie hybride de Toyota."
+    },
+    {
+      "nom": "Cadillac",
+      "pays": "États-Unis",
+      "logo": "https://storage.googleapis.com/ecm-prod/assets/Brand/cadillac_51067f.png",
+      "histoire": "Cadillac, marque américaine prestigieuse, revient en endurance avec un prototype LMDh conçu pour rivaliser avec les meilleures marques mondiales."
+    },
+    {
+      "nom": "Mercedes",
+      "pays": "Allemagne",
+      "logo": "https://storage.googleapis.com/ecm-prod/assets/Brand/mercedes_fa7e55.png",
+      "histoire": "Mercedes-Benz, géant de l'automobile, fait son retour en endurance avec un modèle GT3 inspiré de son programme DTM et F1."
+    }
+  ]
+}
